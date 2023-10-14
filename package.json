@@ -13,6 +13,7 @@
   "dependencies": {
     "@vee-validate/rules": "^4.6.2",
     "firebase": "^8.10.1",
+    "firebase-tools": "^12.7.0",
     "howler": "^2.2.3",
     "nprogress": "^0.2.0",
     "pinia": "^2.0.16",
