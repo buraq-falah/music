@@ -10,6 +10,7 @@ export default defineConfig({
   test: {
     globals: true,
   },
+  base:'/music-app/',
   plugins: [
     vue(),
     VitePWA({
